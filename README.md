@@ -3,7 +3,7 @@
 <a href="http://www.adafruit.com/products/4428"><img src="assets/4428.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit Circuit Playgound Tri-Color E-Ink Gizmo. 
+PCB files for the Adafruit Circuit Playground Tri-Color E-Ink Gizmo. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/4428
